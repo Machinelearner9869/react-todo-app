@@ -1,3 +1,6 @@
+<img width="1271" height="578" alt="Screenshot 2025-12-15 123012" src="https://github.com/user-attachments/assets/2cb524b8-cfc3-40d2-9f44-1475461e4305" />
+<img width="1902" height="566" alt="Screenshot 2025-12-15 122956" src="https://github.com/user-attachments/assets/2257c4b4-c067-472f-a0cc-67bc2f3e001d" />
+<img width="1889" height="545" alt="Screenshot 2025-12-15 122541" src="https://github.com/user-attachments/assets/79f1d190-4d13-453f-9471-07d20e826bcc" />
 # React Todo Application
 
 This is a simple React Todo application developed as a frontend trial task.
