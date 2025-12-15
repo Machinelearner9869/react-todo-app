@@ -57,6 +57,5 @@ src/
 components/
 pages/
 services/
-App.jsx<img width="1271" height="578" alt="Screenshot 2025-12-15 123012" src="https://github.com/user-attachments/assets/b199e751-c6ab-4d0a-bc37-57b073df87c2" />
-
 main.jsx
+
